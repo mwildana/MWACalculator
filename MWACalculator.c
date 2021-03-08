@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <math.h>
 
+// Nama    : Muhammad Wildan Asyrof
+// NIM     : 13219067
+// Modul   : 2
+// Program : Kalkulator
+// Spec    : Sesuai Permintaan Tugas Modul 2 Divisi Programming Sekuro 2021
+
 // **Fungsi Inisiasi** //
 // Fungsi untuk Mem-Validasi Input pilihan
 void validasi_pilihan(int pilihan,int *keluar){
